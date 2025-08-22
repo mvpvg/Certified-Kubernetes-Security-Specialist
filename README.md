@@ -297,6 +297,7 @@ The new ExamUI includes improved features such as:
 
 ### Containers and Kubernetes Security Training
 
+1. [LabEx Kubernetes Learning Path](https://labex.io/learn/kubernetes) - Interactive hands-on Kubernetes labs covering container orchestration, scaling, deployment strategies, and cloud-native fundamentals. Essential foundation before diving into security specialization.
 1. [Killer.sh CKS practice exam](https://killer.sh/cks) - use code **walidshaari** for **20%** discount.
 1. UDEMY Kim Wüstkamp's [Kubernetes CKS 2021 Complete Course with killer.sh Simulator **(discounted price)**](https://killer.sh/r?d=cks-course)
 1. [Linux Foundation Kubernetes Security essentials LFS 260](https://training.linuxfoundation.org/training/kubernetes-security-essentials-lfs260/)
