@@ -294,6 +294,7 @@ The new ExamUI includes improved features such as:
 1. [Code in Action for the **book Learn Kubernetes Security** playlist](https://www.youtube.com/playlist?list=PLeLcvrwLe1859Rje9gHrD1KEp4y5OXApB)
 1. [Kubernetes security concepts and demos](https://youtu.be/VjlvS-qiz_U)
 1. [Webinar | Certified Kubernetes Security Specialist (CKS), January 2022](https://youtu.be/Qqoe-PbuQcs)
+1. [Webinar | Everything you need to know about Kubernetes certification, June 2024](https://youtu.be/vFvelHoxeP0)
 
 ### Containers and Kubernetes Security Training
 
@@ -311,6 +312,8 @@ The new ExamUI includes improved features such as:
 9. [Free Exam simulators from killer.sh available with CKS certification from Linux Foundation](https://training.linuxfoundation.org/announcements/linux-foundation-kubernetes-certifications-now-include-exam-simulator/)
 10. [Sysdig Falco 101](https://learn.sysdig.com/falco-101)
 11. [Killercoda in-browser CKS Playground and Challenges](https://killercoda.com/killer-shell-cks) - FREE
+12. [CKS Self-Study Course](https://rx-m.com/cks-self-study-course/) - FREE
+13. [RX-M CKS Boot Camp](https://rx-m.com/training/certified-kubernetes-security-specialist-cks-boot-camp/)
 
 #### Other CKS related repos
 
